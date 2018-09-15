@@ -4,4 +4,4 @@
 LinuxMain.swift
 .build
 *.xcodeproj
-.gitignore
+swift/*/.gitignore
