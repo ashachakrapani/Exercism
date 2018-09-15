@@ -13,6 +13,6 @@ let package = Package(
     .testTarget(
       name: "\(name)Tests",
       dependencies: [Target.Dependency(stringLiteral: name)]
-    ),
+    )
   ]
 )
